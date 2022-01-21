@@ -1,1 +1,1 @@
-  web: sh setup.sh && streamlit run FlowerApp.py
+  web: sh setup.sh && streamlit run Crop_webapp.py
